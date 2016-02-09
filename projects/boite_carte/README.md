@@ -27,10 +27,10 @@ Photos
 
 avant marqueterie
 
-![alt text](https://github.com/fablablannion/lasercut/raw/projects/boite_carte/20160209_230133.jpg "boite avant marqueterie 1")
-![alt text](https://github.com/fablablannion/lasercut/raw/projects/boite_carte/20160209_230140.jpg "boite avant marqueterie 2")
+![alt text](http://raw.githubusercontent.com/FablabLannion/lasercut/master/projects/boite_carte/20160209_230133.jpg "boite avant marqueterie 1")
+![alt text](http://raw.githubusercontent.com/FablabLannion/lasercut/master/projects/boite_carte/20160209_230140.jpg "boite avant marqueterie 2")
 
 
 détails des aimants
 
-![alt text](https://github.com/fablablannion/lasercut/raw/projects/boite_carte/20160209_230213.jpg "boite avant marqueterie 3")
+![alt text](http://raw.githubusercontent.com/FablabLannion/lasercut/master/projects/boite_carte/20160209_230213.jpg "boite avant marqueterie 3")

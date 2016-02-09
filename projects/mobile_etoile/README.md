@@ -17,4 +17,4 @@ Boite de carte
 Photos
 ------
 
-![alt text](https://github.com/fablablannion/lasercut/raw/projects/boite_carte/20151210_081807.jpg "boite avant marqueterie 3")
+![Mobile Etoile](http://raw.githubusercontent.com/FablabLannion/lasercut/master/projects/mobile_etoile/20151210_081807.jpg "Mobile Etoile")

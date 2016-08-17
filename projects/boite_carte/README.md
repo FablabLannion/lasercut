@@ -1,20 +1,31 @@
-Boite de carte
+Boite Marqueterie / Marquetery box
 ==============
 
 **Auteur**: David Blaisonneau
 
 **License**: CC-NC-BY-SA
 
-**Sujet**: Belle boite pour contenir un jeu de carte, avec couvercle magnetique
+**Mots clefs**: boite, marqueterie, aimants, box, marquetry, magnets
 
-**Mots clefs**: boite, marqueterie, aimants
+**(Français) Sujet**: Boite avec marqueterie pour contenir un jeu de carte, avec couvercle magnetique
 
-**Matériel**
+**(English) Subject**: Marquetry box that contains another card box, with magnetic cap
 
-- CP8 345x240
-- Tissu
-- Placage de 2 tons différents (815x125 and 125x125)
+**(Français) Liste du matériel nécessaire**
 
+- Contre plaqué 8mm
+- Tissu - tissu
+- Placage de 2 tons différents (Chêne et Hêtre)
+- colle
+- cire naturelle
+
+**(English) Bill of material**
+
+- Plywood 8mm
+- tissu
+- Veneer of 2 colors
+- Glue
+- Natural wax
 
 Détails
 --------
@@ -22,15 +33,25 @@ Cette boite doit contenir une seconde boite en carton de 140x100x35mm.
 Pour éviter la quincaillerie habituelle, j'ai choisi une fermeture magnétique avec des aimants de 24x8x6mm
 
 
-Photos
+Photos > Pictures
 ------
 
-avant marqueterie
+Résultat final > Final result
 
-![boite avant marqueterie 1](https://raw.githubusercontent.com/FablabLannion/lasercut/master/projects/boite_carte/20160209_230133.jpg)
-![boite avant marqueterie 3](https://raw.githubusercontent.com/FablabLannion/lasercut/master/projects/boite_carte/20160209_230140.jpg)
+![final 1](https://raw.githubusercontent.com/FablabLannion/lasercut/master/projects/boite_carte/20160327_181948.jpg)
+![final 2](https://raw.githubusercontent.com/FablabLannion/lasercut/master/projects/boite_carte/20160327_181916.jpg)
+
+avant poncage et cirage / before sanding and wax
+
+![avant poncage](https://raw.githubusercontent.com/FablabLannion/lasercut/master/projects/boite_carte/20160222_075145.jpg)
+
+
+armature / skeleton
+
+![armature](https://raw.githubusercontent.com/FablabLannion/lasercut/master/projects/boite_carte/20160209_230133.jpg)
+![armature](https://raw.githubusercontent.com/FablabLannion/lasercut/master/projects/boite_carte/20160209_230140.jpg)
 
 
 détails des aimants
 
-![boite avant marqueterie 3](https://raw.githubusercontent.com/FablabLannion/lasercut/master/projects/boite_carte/20160209_230213.jpg)
+![detail](https://raw.githubusercontent.com/FablabLannion/lasercut/master/projects/boite_carte/20160209_230213.jpg)

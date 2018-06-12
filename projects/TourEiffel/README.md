@@ -21,4 +21,4 @@ Photos
 
 Remix de celle de [rutech](https://www.thingiverse.com/thing:1036530)
 
-Aussi disponible sur [Thingiverse](https://www.thingiverse.com/thing:) avec plus de photos.
+Aussi disponible sur [Thingiverse](https://www.thingiverse.com/thing:2958414) avec plus de photos.

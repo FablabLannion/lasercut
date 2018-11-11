@@ -1,5 +1,5 @@
-Sapin Lumineux
-==============
+Sapins
+======
 
 **Auteur**: Tangi Lavanant
 

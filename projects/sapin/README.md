@@ -1,4 +1,4 @@
-Boite de carte
+Sapin Lumineux
 ==============
 
 **Auteur**: David Blaisonneau
@@ -17,4 +17,6 @@ Boite de carte
 
 Détails
 --------
-Un sapin de Noel clignotant à mettre sur toute les tables
+Un sapin de Noel clignotant à mettre sur toutes les tables
+
+![sapin](sapin.jpg)

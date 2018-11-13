@@ -17,4 +17,4 @@ Détails
 --------
 Un sapin de Noel à mettre sur toutes les tables
 
-![sapin](sapin.png)
+![sapin](https://wiki.fablab-lannion.org/images/thumb/3/36/SapinCarton2.jpg/450px-SapinCarton2.jpg)

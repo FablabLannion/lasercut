@@ -14,7 +14,9 @@ Décorations de Noël
 Détails
 --------
 
-Boules de noël à accrocvher sur le sapin.
+Différents modèles pour Noël :
+- Boules de noël à accrocher sur le sapin.
+- Porte bouteille renne (fichiers bottle*)
 
 Photos > Pictures
 ------
@@ -27,3 +29,6 @@ Photos > Pictures
 ![renne](renne.png)
 ![renne2](renne2.png)
 ![sapin](sapin.png)
+
+
+![porte bouteille](bottle.jpg)

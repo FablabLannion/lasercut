@@ -16,7 +16,11 @@ Détails
 
 Différents modèles pour Noël :
 - Boules de noël à accrocher sur le sapin.
-- Porte bouteille renne (fichiers bottle*)
+- Porte bouteille renne (fichiers bottle*).
+- Sapin de Noël 3D (fichiers sapin-3D*).
+- Sapin de Noël ressort (fichiers sapin-ressort.*).
+- Sapin pour accrocher une boule de Noël (fichiers sapin-boule.*).
+
 
 Photos > Pictures
 ------
@@ -31,4 +35,4 @@ Photos > Pictures
 ![sapin](sapin.png)
 
 
-![porte bouteille](bottle.jpg)
+![porte bouteille](modeles-noel.jpg)

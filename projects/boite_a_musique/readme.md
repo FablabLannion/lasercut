@@ -18,3 +18,5 @@ Red layer:
 - power: 40W
 - speed: 150mm/s
 - scan interval: 0.1mm
+
+The part to be engraved (lid top panel) shall be covered with masking tape to avoid burns around the patterns.

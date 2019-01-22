@@ -1,9 +1,9 @@
-##Case for 30-notes music box movement##
+## Case for 30-notes music box movement
 
 CC-BY-SA Shadocko
 The case is to be cut in 5mm plywood or equivalent.
 
-##Settings used on Keyland laser cutter##
+## Settings used on Keyland laser cutter
 
 Black layer:
 - mode: cut
